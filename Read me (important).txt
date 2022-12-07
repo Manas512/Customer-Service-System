@@ -1,0 +1,6 @@
+GRANT ALL PRIVILEGES ON services.* TO 'root'@'localhost';
+
+$contact == "7210110121" && $pass == "admin123"
+
+http://localhost/Urban%20Amenities/index.php
+http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=services&table=feedback&pos=0
